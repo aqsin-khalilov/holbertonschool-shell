@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d ecex chmod +x {} \;
+find . -type d ecex chmod a+x {} \;
